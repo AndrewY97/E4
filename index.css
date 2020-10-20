@@ -1,0 +1,81 @@
+#carousel{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    width: 80%;
+    
+    
+}
+
+h5{
+    color: black;
+}
+
+#nav{
+    background-color:darkblue;
+}
+
+body{
+    background-image: url(https://images3.alphacoders.com/102/thumb-1920-1020596.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#carta{
+    background-color:#0096c7; 
+    width: 14px;
+    height: 14rem;
+    
+}
+
+#carta2{
+    background-color:#0096c7; 
+    width: 14px;  
+    height: 14rem;
+    
+}
+
+#carta3{
+    background-color:#0096c7; 
+    width: 10rem;  
+}
+
+#carta4{
+    background-color:#0096c7; 
+    width: 10rem;  
+}
+
+#carta5{
+    background-color:#0096c7; 
+    width: 10rem;  
+}
+
+#carta6{
+    background-color:#0096c7; 
+    width: 10rem;  
+}
+
+#btn-primary{
+    background-color: #90e0ef;
+}
+
+#carta,#carta2,#carta3,#carta4,#carta5,#carta6{
+    overflow: hidden;
+  /*comenta o descomenta las propiedades overflow*/
+  /* overflow: visible;*/
+  margin: 10px;
+  padding: 10px;
+  float: left;
+  height: auto;
+}
+
+h1{
+    text-align:center;
+    font: 450% sans-serif;
+    margin-top: 2rem;
+}
+
+#logo{
+    width: 3rem;
+}
